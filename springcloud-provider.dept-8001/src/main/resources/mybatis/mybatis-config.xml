@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!-- 注意：由Spring来创建SqlSessionFactory时候，该配置中的任意环境,数据源 和 MyBatis 的事务管理器都会被忽略。
+          SqlSessionFactoryBean 会创建它自己的。 -->
+<configuration>
+
+</configuration>
